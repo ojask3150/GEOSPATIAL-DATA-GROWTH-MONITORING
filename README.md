@@ -63,7 +63,7 @@ Meanwhile, generated Tiffs for predictions come to be closer than expected to ac
 
 ### 2. Spatial Patterns vs Exact Values
 The predicted images show correct spatial structure:
-- Pattern correlation with actual data: **0.65**
+- Pattern correlation with actual data: **0.55**
 - Pixel-level R²: **0.18**
 - Mean absolute error: **0.15**
 
@@ -81,7 +81,7 @@ The blue band dominates both seasons—likely a proxy for moisture conditions.
 ### 4. Seasonal Asymmetry
 - **Kharif (monsoon):** R² = 0.18 (low predictability due to rainfall uncertainty)
 - **Rabi (winter):** R² = 0.34 (moderate predictability due to irrigation)
-- Pattern correlation with actual data: **0.65**
+- Pattern correlation with actual data: **0.55**
 
 ## Interpretation
 
