@@ -40,7 +40,7 @@ This project investigates whether early-season satellite data can predict end-of
 | Linear Regression | scikit-learn | Linear baseline |
 
 ## 📈 Results
-### Spatial Pattern correlation:- 0.65
+### Spatial Pattern correlation:- 0.55
 ### Kharif (June → September)
 | Model | R² Score |
 |-------|----------|
